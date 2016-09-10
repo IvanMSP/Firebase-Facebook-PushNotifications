@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseAndroid</string>
+    <string name="facebook_app_id">1122631891144974</string>
+    <string name="error_login">Ocurrio un error al iniciar sesión en Facebook</string>
+    <string name="cancel_login">Operación cancelada</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="welcome">Welcome Morro</string>
+    <string name="welcome_login">Welcome</string>
+</resources>
